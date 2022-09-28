@@ -8,3 +8,7 @@ Rules:
 stack (pile or hand) on the table.
 5) The Sum is now the sum of all cards in the stack on the table.
 6) Go to instruction #3.
+
+Sample:
+
+![Winner Output](https://user-images.githubusercontent.com/80939100/192700125-8c19a04a-c135-44c4-8a43-f14aab3926e0.PNG)
